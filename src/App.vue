@@ -8,7 +8,7 @@ export default {
 </script>
 
 <template>
-
+  <AppTitle></AppTitle>
 </template>
 
 <style>
